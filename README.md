@@ -1,0 +1,1 @@
+# karabiner-terminal-swap-option-command
