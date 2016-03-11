@@ -9,4 +9,4 @@ private.xml for Karabiner, to swap option key and command key only on Terminal.a
 
 ## Special thanks
 
-https://gist.github.com/drmohundro/0c9236430e4d201b5aff
+[Karabiner private.xml to swap option and command keys for Parallels](https://gist.github.com/drmohundro/0c9236430e4d201b5aff)
