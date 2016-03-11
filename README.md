@@ -1,6 +1,6 @@
 # karabiner-terminal-swap-option-command
 
-private.xml for Karabiner, to swap option key and command key only on Terminal.app.
+private.xml for Karabiner, to swap option key and command key only on Terminal.app. (substitute of [SwapOptCmd](http://www.yedo.com/swapoptcmd))
 
 <img width="912" alt="2016-03-12 5 12 03" src="https://cloud.githubusercontent.com/assets/10515/13714320/3ec1090c-e811-11e5-9e13-16edbe7cef6c.png">
 ![2016-03-12 5 12 09](https://cloud.githubusercontent.com/assets/10515/13714325/41e03c84-e811-11e5-863b-ed79ab157d30.png)
