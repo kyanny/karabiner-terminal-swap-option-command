@@ -9,9 +9,10 @@
         <name>Swap Command and Option (Terminal.app)</name>
         <identifier>private.app_terminal_swap_command_and_option</identifier>
         <only>Terminal</only>
-        <autogen>__KeyToKey__ KeyCode::OPTION_L, KeyCode::COMMAND_L</autogen>
-        <autogen>__KeyToKey__ KeyCode::COMMAND_L, KeyCode::OPTION_L</autogen>
-        <autogen>__KeyToKey__ KeyCode::OPTION_R, KeyCode::COMMAND_R</autogen>
+        <autogen>__KeyToKey__ KeyCode::OPTION_L,  KeyCode::COMMAND_L</autogen>
+        <autogen>__KeyToKey__ KeyCode::COMMAND_L, ModifierFlag::NONE, KeyCode::OPTION_L</autogen>
+        <autogen>__KeyToKey__ KeyCode::OPTION_R,  KeyCode::COMMAND_R</autogen>
+        <autogen>__KeyToKey__ KeyCode::COMMAND_R, ModifierFlag::SHIFT_R, KeyCode::COMMAND_R, ModifierFlag::SHIFT_R</autogen>
         <autogen>__KeyToKey__ KeyCode::COMMAND_R, KeyCode::OPTION_L</autogen>
     </item>
 </root>
